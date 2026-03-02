@@ -20,3 +20,9 @@ void ProsedurOutput()
 {
     cout << "Luas Ketupat : " << ProsedurHitungLuasBerparameter(D1, D2);
 }
+
+int main()
+{
+    ProsedurInputData();
+    ProsedurOutput();
+}
