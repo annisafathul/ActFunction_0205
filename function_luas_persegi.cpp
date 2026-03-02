@@ -10,3 +10,8 @@ void input()
     cout << "Masukkan Lebar :";
     cin >> l;
 }
+
+int luaspersegi()
+{
+    return p * l;
+}
